@@ -20,3 +20,10 @@
 </ul>
 
 <h1>Atualizações</h1>
+<ul>
+
+  <li> Criação de uma tela inicial para o jogo </li>
+  <li>Adicionar responsividade.</li>
+  <li>Melhorar a dinâmica de vidas.</li>
+  <li>Almentar a quantidade de niveis.</li>
+</ul>
